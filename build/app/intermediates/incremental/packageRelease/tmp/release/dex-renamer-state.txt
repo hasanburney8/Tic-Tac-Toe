@@ -1,0 +1,4 @@
+#Sat Mar 08 03:30:34 PKT 2025
+base.0=/Users/hasanburney/Desktop/Flutter Projects/tic_tac_toe/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
